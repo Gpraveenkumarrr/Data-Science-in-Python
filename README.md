@@ -2,6 +2,7 @@
 Applied Data Science with Python
 
 Course: Introduction to Data Science in Python
+	
 	Week1 (Numpy):
 	
 				Numerical Python (NumPy)
