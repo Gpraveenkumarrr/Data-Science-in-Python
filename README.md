@@ -1,7 +1,7 @@
 # Data-Science-in-Python
-Applied Data Science with Python
+### Applied Data Science with Python
 
-Course: Introduction to Data Science in Python
+#### Course: Introduction to Data Science in Python
 	
 	Week1 (Numpy):
 	
