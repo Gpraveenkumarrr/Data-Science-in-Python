@@ -5,7 +5,7 @@ This [course](https://www.coursera.org/learn/python-data-analysis) will introduc
 
 The course will end with a statistics primer, showing how various statistical measures can be applied to pandas DataFrames. By the end of the course, students will be able to take tabular data, clean it,  manipulate it, and run basic inferential statistical analyses.
 
-### Applied Data Science with Python (view [certificate](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Certificate.pdf))
+### Applied Data Science with Python (View [certificate](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Certificate.pdf))
 - Week1: Python Fundamentals
 
   - Recognize the meaning of the term "Data Science"
