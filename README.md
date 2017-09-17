@@ -12,13 +12,37 @@ The course will end with a statistics primer, showing how various statistical me
   - Develop basic Python programs using strings, functions, lists, dictionaries, date/time features, and files
   - Use advanced Python features, including lambdas, list comprehensions and the numpy library
 
-    - Week1 Quiz: [Neural Network Basics Questions](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Week2%20Neural%20Networks%20Basics/Week2%20-%20Quiz.pdf) 
-    - Week2 Programming Assignment: [Logistic Regression with a Neural Network mindset](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Week2%20Neural%20Networks%20Basics/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  
-  - Week3 Quiz: [Shallow neural networks](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Week3%20Shallow%20neural%20networks/Week3%20-%20Quiz.pdf)
-  - Week3 Programming Assignment: [Planar data classification with a hidden layer](https://github.com/LeonFData/Deep-Learning-Specialization/blob/master/Course1%20Neural%20Networks%20and%20Deep%20Learning/Week3%20Shallow%20neural%20networks/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  
+    - Week1 Course Material: [The Python Programming Language 1](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Week%2B1.ipynb) 
 
+- Week2: Basic Data Processing with Pandas
+
+  - Create Series and DataFrame Data Structures
+  - Use pandas math functions, as well as broadcasting features
+  - Employ the pandas library to import and manipulate data
+  - Apply indexing and querying to DataFrames, and deal with missing values
+
+    - Week2 Course Material: [The Python Programming Language 2](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Week%2B2.ipynb) 
+    - Week2 Assignment: [Pandas Introduction](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Assignment%202%20-%20Pandas%20Introduction.ipynb)
+
+- Week3: Advanced Python Pandas
+
+  - Apply merge and join on DataFrames
+  - Employ slicing and indexing on DataFrames
+  - Analyze data with groupby and understand categorical variables
+  - Produce the entire process of data source to elucidation
+  - Examine the data by manipulating, cutting, and applying aggregate functions to DataFrames
+
+    - Week3 Course Material: [The Python Programming Language 3](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Week%2B3.ipynb) 
+    - Week3 Assignment: [More Pandas](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Assignment%203%20-%20More%20Pandas.ipynb)
+
+- Week4: Advanced Python Pandas
+
+  - Identify your understanding of basic statistics
+  - Recognize different distributions such as binomial, uniform, normal, and chi-squared
+  - Interpret data to evaluate hypothesis tests
+
+    - Week4 Course Material: [The Python Programming Language 4](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Week%2B4.ipynb) 
+    - Week4 [Final Project - Hypothesis Testing](https://github.com/LeonFData/Data-Science-in-Python/blob/master/Data%20Science%20in%20Python/Final%20Project%20-%20Hypothesis%20Testing%20-%20Copy.ipynb)
 				
 	
 				
